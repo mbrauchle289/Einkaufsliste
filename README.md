@@ -11,3 +11,6 @@
 * Deutsch
 * Englisch gut in Wort und Schrift
 * Französisch gut in Wort und Schrift
+
+## Bild
+![Bild konnte nicht geladen werden](mountains.jpg)
